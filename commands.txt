@@ -1,0 +1,19 @@
+git clone paste url of the github -> enter
+pwd 
+cd directory name
+ls
+"add new files in the window"
+git add .
+git status
+git add . 
+git status 
+git commit -m "any comment"
+git status
+git push -u origin --all
+git remote 
+ls
+git tag v1.0
+git tag -a v1.1
+esc :wq
+git show
+git tag
